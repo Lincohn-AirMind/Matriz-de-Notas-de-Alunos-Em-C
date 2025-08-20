@@ -1,2 +1,2 @@
 # Matriz-de-Notas-de-Alunos-Em-C
-Aplicação em C que utiliza de laços for para aplicar notas aos alunos e obter a média perante tais valores.
+Aplicação em C que utiliza de laços for relacionados à uma matriz para atribuir notas aos alunos e calcular a média correspondente.
